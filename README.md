@@ -1,5 +1,4 @@
 ###  Vamos criar algo incrível juntos!
-
 - 📫email de contato: bmraphaela@gmail.com
 - 💻Estudando metodologia SCRUM e C Sharp
   
