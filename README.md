@@ -1,15 +1,4 @@
 #  Vamos criar algo incrível juntos!✨
-```javascript
-const rapha = {
-  pronomes: "ela" | "dela",
-  code: [Javascript, HTML, CSS, Python...],
-  aprendendo: [React, Node, C#...],
-};
-  const objetivos = { "Aprofundar e expandir meus conhecimentos em programação e design e,
-  futuramente migrar para outras linguagens"
-};
-
-```
 - **💕Amante de ciência, literatura, filosofia, arte e tecnologia**
   
   <div>
@@ -30,6 +19,22 @@ const rapha = {
   <img align="center" alt="Raphs-Fb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" alt="Raphs-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">        
 </div>
+
+###
+
+```javascript
+const rapha = {
+  pronomes: "ela" | "dela",
+  code: ["Javascript", "HTML", "CSS", "Python"],
+  aprendendo: ["React", "Node", "C#"],
+};
+
+const objetivos = {
+  descricao: "Aprofundar e expandir meus conhecimentos em programação e design e, futuramente,
+  migrar para outras linguagens."
+};
+
+```
 
 ##
 
