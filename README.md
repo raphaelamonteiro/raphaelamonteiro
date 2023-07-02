@@ -5,10 +5,10 @@ const rapha = {
   code: [Javascript, HTML, CSS, Python, Java...],
   aprendendo: [React, Node, C#...],
 };
-  objetivos: "Aprofundar e expandir meus conhecimentos em programação e design e, futuramente migrar para
-outras linguagens"
-
+  const objetivos = { "Aprofundar e expandir meus conhecimentos em programação e design e,
+  futuramente migrar para outras linguagens"
 };
+
 ```
 - **💕Amante de ciência, literatura, filosofia, arte e tecnologia**
   
