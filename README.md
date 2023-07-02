@@ -2,7 +2,7 @@
 ```javascript
 const rapha = {
   pronomes: "ela" | "dela",
-  code: [Javascript, HTML, CSS, Python, Java...],
+  code: [Javascript, HTML, CSS, Python...],
   aprendendo: [React, Node, C#...],
 };
   const objetivos = { "Aprofundar e expandir meus conhecimentos em programação e design e,
