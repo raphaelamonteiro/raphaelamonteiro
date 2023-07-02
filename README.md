@@ -1,6 +1,6 @@
-###  Vamos criar algo incrível juntos!
-- 📫email de contato: bmraphaela@gmail.com
-- 💻Estudando metodologia SCRUM, C Sharp e NodeJS
+#  Vamos criar algo incrível juntos!✨
+- 💕Amante de ciência, literatura, filosofia, arte e tecnologia
+- 💻Estudando metodologia **SCRUM**, **C Sharp** e **NodeJS**
   
   <div>
 ![Raphaela's GitHub stats]( https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
