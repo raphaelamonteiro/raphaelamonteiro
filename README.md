@@ -1,6 +1,16 @@
 #  Vamos criar algo incrível juntos!✨
-- 💕Amante de ciência, literatura, filosofia, arte e tecnologia
-- 💻Estudando metodologia **SCRUM**, **C Sharp** e **NodeJS**
+```javascript
+const rapha = {
+  pronomes: "ela" | "dela",
+  code: [Javascript, HTML, CSS, Python, Java...],
+  aprendendo: [React, Node, C#...],
+};
+  objetivos: "Aprofundar e expandir meus conhecimentos em programação e design e, futuramente migrar para
+outras linguagens"
+
+};
+```
+- **💕Amante de ciência, literatura, filosofia, arte e tecnologia**
   
   <div>
 ![Raphaela's GitHub stats]( https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
