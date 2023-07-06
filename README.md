@@ -1,5 +1,5 @@
-#  Vamos criar algo incrível juntos!✨
-- **💕Amante de ciência, literatura, filosofia, arte e tecnologia**
+#  Hello World!✨
+- Tente mover o mundo – o primeiro passo será mover a si mesmo. - Platão
   
   <div>
 ![Raphaela's GitHub stats]( https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
@@ -30,8 +30,8 @@ const rapha = {
 };
 
 const objetivos = {
-  descricao: "Aprofundar e expandir meus conhecimentos em programação e design e, futuramente,
-  migrar para outras linguagens."
+  descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
+  na área de ux/ui."
 };
 
 ```
