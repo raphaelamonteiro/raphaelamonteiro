@@ -1,9 +1,13 @@
 #  Hello World!✨
 - Tente mover o mundo – o primeiro passo será mover a si mesmo. - Platão
-  
-  <div>
-![Raphaela's GitHub stats]( https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro\&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
+- 
+<div>
+<a href="https://github.com/raphaelamonteiro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&theme=nightowl" />
+</a>
+<a href="https://github.com/raphaelamonteiro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelamonteiro&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
+</a>
 </div>
 
 <div style="display: inline_block"><br>
