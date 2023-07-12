@@ -26,7 +26,7 @@
 const rapha = {
   pronomes: "ela" | "dela",
   code: ["Javascript", "HTML", "CSS", "Python"],
-  aprendendo: ["Node", "C#"],
+  aprendendo: ["Node.js", "C#"],
 };
 
 const objetivos = {
