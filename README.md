@@ -29,8 +29,7 @@
 ```javascript
 const rapha = {
   pronomes: "ela" | "dela",
-  code: ["Javascript", "HTML", "CSS", "Python"],
-  aprendendo: ["Node.js", "C#"],
+  code: ["Javascript", "HTML", "CSS", "Python"]
 };
 
 const objetivos = {
