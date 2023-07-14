@@ -28,9 +28,10 @@
 
 ```javascript
 const rapha = {
-  pronomes: "ela" | "dela",
+  pronomes: ["ela", "dela"],
   code: ["Javascript", "HTML", "CSS", "Python"]
 };
+
 
 const objetivos = {
   descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
