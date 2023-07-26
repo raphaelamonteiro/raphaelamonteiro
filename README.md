@@ -1,6 +1,19 @@
 #  Hello World!✨
-- Tente mover o mundo – o primeiro passo será mover a si mesmo. - Platão
-- 
+
+```javascript
+const rapha = {
+  pronomes: ["ela","dela"],
+  habilidades: ["Javascript", "HTML", "CSS","PHP", "Python", "Figma"]
+};
+
+
+const objetivos = {
+  descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
+  na área de ux/ui."
+};
+
+```
+
 <div>
 <a href="https://github.com/raphaelamonteiro/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&theme=nightowl" />
@@ -25,20 +38,6 @@
 </div>
 
 ###
-
-```javascript
-const rapha = {
-  pronomes: ["ela", "dela"],
-  code: ["Javascript", "HTML", "CSS", "Python"]
-};
-
-
-const objetivos = {
-  descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
-  na área de ux/ui."
-};
-
-```
 
 ##
 
