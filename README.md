@@ -13,15 +13,13 @@ const objetivos = {
 };
 
 ```
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelamonteiro&theme=nightowl&hide_border=false"  width="400px" />
 
-<div>
-<a href="https://github.com/raphaelamonteiro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&theme=nightowl" />
-</a>
-<a href="https://github.com/raphaelamonteiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelamonteiro&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
-</a>
-</div>
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
