@@ -1,7 +1,7 @@
 #  Hello World!✨
 
 ```javascript
-const rapha = {
+const raphaela = {
   habilidades: ["Javascript", "HTML", "CSS","PHP", "Python", "Figma"]
 };
 
