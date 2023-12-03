@@ -2,7 +2,6 @@
 
 ```javascript
 const rapha = {
-  pronomes: ["ela","dela"],
   habilidades: ["Javascript", "HTML", "CSS","PHP", "Python", "Figma"]
 };
 
