@@ -1,10 +1,13 @@
-#  Hello World!✨
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;+<Eu+sou+a+Raphaela!/>;" />
+</div>
+<h2 align='center'> About Me:</h2>
+<br>
 
 ```javascript
 const raphaela = {
   habilidades: ["Javascript", "HTML", "CSS","PHP", "Python", "Figma"]
 };
-
 
 const objetivos = {
   descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
