@@ -12,6 +12,7 @@ const raphaela = {
 const objetivos = {
   descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design, principalmente
   na área de ux/ui."
+
 };
 
 ```
