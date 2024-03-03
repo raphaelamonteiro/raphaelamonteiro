@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;+<Eu+sou+a+Raphaela!/>;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;+<I'm++Raphaela!/>;" />
 </div>
 <h2 align='center'> About Me:</h2>
 <br>
@@ -23,7 +23,8 @@ const objetivos = {
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### [Projeto API - FATEC ](https://github.com/nomadesfatec)
+> [!IMPORTANT]\
+> [Projeto API - FATEC ](https://github.com/nomadesfatec)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
