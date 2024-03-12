@@ -25,7 +25,7 @@ const objetivos = {
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 > [!IMPORTANT]\
-> [Projeto API - FATEC ](https://github.com/nomadesfatec)
+> [Projeto API - FATEC ](https://github.com/equipeAdalove)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
