@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;+<I'm++Raphaela!/>;" />
+
 </div>
 <h2 align='center'> About Me:</h2>
 <br>
