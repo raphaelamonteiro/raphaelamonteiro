@@ -8,7 +8,7 @@
 
 ```javascript
 const raphaela = {
-  skills: ["HTML", "CSS","Javascript", "Python", "SQL", "Java", "Figma"]
+  skills: ["HTML", "CSS", "Javascript", "Python", "SQL", "Java", "Figma"]
 };
 
 const objetivos = {
