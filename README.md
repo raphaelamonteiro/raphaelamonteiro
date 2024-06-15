@@ -8,7 +8,7 @@
 
 ```javascript
 const raphaela = {
-  skills: ["HTML", "CSS", "Javascript", "Python", "SQL", "Java", "Figma"]
+  graduating: "Systems Analysis and Development at FATEC-SJC"
 };
 
 const objetivos = {
