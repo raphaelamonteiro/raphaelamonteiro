@@ -8,7 +8,7 @@
 
 ```javascript
 const raphaela = {
-  graduating: "Systems Analysis and Development at FATEC-SJC"
+    graduating: "Analysis and Development Systems at FATEC-SJC"
 };
 
 const objetivos = {
