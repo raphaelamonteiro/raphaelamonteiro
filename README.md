@@ -11,14 +11,13 @@ const raphaela = {
     graduating: "Analysis and Development Systems at FATEC-SJC"
 };
 
-const objetivos = {
-  descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design."
+const goals = {
+  description: "Deepen and expand my knowledge in programming, development and design."
 };
 
 ```
 #
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelamonteiro&theme=nightowl&hide_border=false"  width="400px" />
-
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"  width="364px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelamonteiro&theme=nightowl&hide_border=false"  width="400px"/>
 
 
 ![Skills](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
