@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;+<I'm++Raphaela!/>;" />
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=4998&pause=990&color=AB6EC3&center=true&vCenter=true&width=435&lines=print+(%22Hello+World!+%22);print+(%22I'm+Raphaela!+%22)" alt="Typing SVG" /></a>
 
 </div>
 <h2 align='center'> About Me:</h2>
