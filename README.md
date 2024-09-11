@@ -26,6 +26,7 @@ const goals = {
 > [Projeto API - FATEC ](https://github.com/equipeAdalove)
 
 <div style="display: inline_block"><br>
+    
 <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 <img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,10 +54,11 @@ const goals = {
 <img align="center" alt="Raphs-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
 <img align="center" alt="Raphs-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-                    
+
 <img align="center" alt="Raphs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+<img align="center" alt="Raphs-Ollama" height="40" width="40" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
        
-    
 </div>
 
 ###
