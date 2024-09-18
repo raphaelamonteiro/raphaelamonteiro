@@ -1,7 +1,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4995&pause=995&color=96C9F4&center=true&vCenter=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)" alt="Typing SVG" /></a>
-
 </div>
+
+
 <h2 align='center'> About Me:</h2>
 <br>
 
