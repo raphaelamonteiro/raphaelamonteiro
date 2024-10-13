@@ -70,9 +70,3 @@ const goals = {
 </div>
 
 ##
-
-  <div align="center">
-    
-  ![Snake animation](https://github.com/larissa-fernanda/larissa-fernanda/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
