@@ -2,11 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4995&pause=995&color=96C9F4&center=true&vCenter=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)" alt="Typing SVG" /></a>
 </div>
 
-
-
 <h2 align='center'> About Me:</h2>
 <br>
-
 
 ```javascript
 const raphaela = {
@@ -18,15 +15,15 @@ const goals = {
 };
 
 ```
-#
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"  width="364px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelamonteiro&theme=nightowl&hide_border=false"  width="400px"/>
 
-
-![Skills](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelamonteiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
+</div>
 
 ##
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     
 <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -62,8 +59,15 @@ const goals = {
      
 </div>
 
-###
 
+##
+
+  
+<div align="center"> 
+  <a href = "mailto:bmraphaela@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphaelamonteiro/ target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ilyraphaela/ target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
 ##
 
