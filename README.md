@@ -57,19 +57,23 @@ const goals = {
 
 <img align="center" alt="Raphs-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
+<img align="center" alt="Raphs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+     
+</div>
+
+<div align="center" style="display: inline_block"><br>
+
+<img align="center" alt="Raphs-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+
 <img align="center" alt="Raphs-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
 <img align="center" alt="Raphs-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
 
-<img align="center" alt="Raphs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
 <img align="center" alt="Raphs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-     
+
 </div>
 
-
 ##
-
   
 <div align="center"> 
   <a href = "mailto:raphaelabm.dev@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
