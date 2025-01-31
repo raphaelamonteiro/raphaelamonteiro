@@ -26,12 +26,16 @@ const goals = {
 
 <div align="center" style="display: inline_block"><br>
 
+<img align="center" alt="Raphs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 <img align="center" alt="Raphs-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 
 <img align="center" alt="Raphs-ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 
 <img align="center" alt="Raphs-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    
+
+<img align="center" alt="Raphs-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+           
 <img align="center" alt="Raphs-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     
 <img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,11 +48,7 @@ const goals = {
           
 <img align="center" alt="Raphs-Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" >
 
-<img align="center" alt="Raphs-Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-
 <img align="center" alt="Raphs-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<img align="center" alt="Raphs-Ollama" height="30" width="30" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
   
 <img align="center" alt="Raphs-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
 
