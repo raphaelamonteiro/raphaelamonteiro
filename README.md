@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4995&pause=995&color=96C9F4&center=true&vCenter=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)+" alt="Typing SVG" /></a>
 </div>
 
 <h2 align='center'> About Me:</h2>
@@ -29,6 +29,8 @@ const goals = {
 <img align="center" alt="Raphs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
 <img align="center" alt="Raphs-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="Raphs-ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 
 <img align="center" alt="Raphs-ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 
