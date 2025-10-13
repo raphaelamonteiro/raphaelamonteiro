@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Ol%C3%A1+mundo!%22);print+(%22Eu+sou+a+Raphaela!%22)" alt="Typing SVG" /></a>
 </div>
 
 <h2 align='center'> Sobre mim:</h2>
@@ -8,11 +8,11 @@
 
 ```javascript
 const raphaela = {
-    graduating: "Analysis and Development Systems at FATEC-SJC"
+    graduacao: "Análise e Desenvolvimento de Sistemas na FATEC-SJC"
 };
 
 const goals = {
-  description: "Deepen and expand my knowledge in programming, development and design."
+  descicao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design"
 };
 
 ```
@@ -85,3 +85,12 @@ const goals = {
   <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/ilyraphaela/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+---
+
+<div align="center"> 
+    
+[ENG-US](README.md)
+
+</div>
+
