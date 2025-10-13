@@ -84,4 +84,13 @@ const goals = {
   <a href="mailto:raphaelabm.dev@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/ilyraphaela/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    
+</div>
+
+---
+
+<div align="center"> 
+    
+[🇧🇷 PT-BR](languages/pt.md)
+
 </div>
