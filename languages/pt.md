@@ -90,7 +90,7 @@ const goals = {
 
 <div align="center"> 
     
-[ENG-US](README.md)
+[ENG-US](/README.md)
 
 </div>
 
