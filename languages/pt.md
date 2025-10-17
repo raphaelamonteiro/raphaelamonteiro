@@ -11,8 +11,8 @@ const raphaela = {
     graduacao: "Análise e Desenvolvimento de Sistemas na FATEC-SJC"
 };
 
-const goals = {
-  descicao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design"
+const objetivos = {
+  descricao: "Aprofundar e expandir meus conhecimentos em programação, desenvolvimento e design"
 };
 
 ```
