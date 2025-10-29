@@ -17,9 +17,11 @@ const objetivos = {
 
 ```
 
-<div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=pt-br&" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelamonteiro&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=pt-br&&layout=compact&langs_count=8&card_width=320" />
+<div align="center" style="display: inline_block">
+
+[![raphs](https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&theme=aura&locale=pt-br&)](https://github.com/raphaelamonteiro)
+[![raphs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&hide=html&layout=compact&theme=aura&locale=pt-br&)](https://github.com/raphaelamonteiro)
+
 </div>
 
 ##
