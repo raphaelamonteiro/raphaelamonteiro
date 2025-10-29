@@ -16,10 +16,11 @@ const goals = {
 };
 
 ```
+<div align="center" style="display: inline_block">
 
-<div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=en&" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelamonteiro&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
+[![raphs](https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&theme=aura)](https://github.com/raphaelamonteiro)
+[![raphs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&hide=html&layout=compact&theme=aura)](https://github.com/raphaelamonteiro)
+
 </div>
 
 ##
