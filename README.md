@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1050&color=AE75DA&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1050&color=AE75DA&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)" />
 
   </a>
 </div>
@@ -10,19 +10,13 @@
 
 ```javascript
 // 💻 Developer mode: always on
-// 🧠 Constantly learning, creating, and caffeinating
+// ☕ Constantly learning, creating, and caffeinating
 
 const raphaela = {
   graduating: "Systems Analysis and Development at FATEC Prof. Jessen Vidal",
 
   focus: ["Full Stack Development", "Data Science", "Artificial Intelligence"],
   softSkills: ["curiosity", "organization", "creativity", "proactivity"],
-
-  goals: [
-    "Keep improving my coding flow in Angular, TypeScript, C#, and .NET.",
-    "Dive deeper into data science and AI to craft smarter, meaningful solutions.",
-    "Build projects that blend logic, design, and real-world impact 💜"
-  ]
 };
 
 ```
