@@ -110,7 +110,7 @@ const raphaela = {
 ```
 
 <div align="center"> 
-  <a href="README.md">:es: Leia em Inglês</a>
+  <a href="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/README.md">:es: Leia em Inglês</a>
 
 <p align="center"><sub>console.log("Obrigada por visitar!") 💜</sub></p>
 
