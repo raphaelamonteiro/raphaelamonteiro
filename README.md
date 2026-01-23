@@ -15,7 +15,7 @@ const raphaela = {
   graduating: "Systems Analysis and Development at FATEC Prof. Jessen Vidal",
 
   focus: ["Full Stack Development", "Data Science", "Artificial Intelligence", "Cybersecurity", "DevOps / Infrastructure"],
-  softSkills: ["curiosity", "organization", "creativity", "proactivity", "problem-solving", "analytical thinking", "persistence"],
+  softSkills: ["curiosity", "organization", "creativity", "proactivity", "problem-solving", "analytical thinking"],
 };
 ```
 
