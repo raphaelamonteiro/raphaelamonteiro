@@ -14,8 +14,8 @@
 const raphaela = {
   estudando: "Análise e Desenvolvimento de Sistemas — FATEC Prof. Jessen Vidal",
 
-  foco: ["Desenvolvimento Full Stack", "Ciência de Dados", "Inteligência Artificial", "Cybersecurity / Segurança da Informação", "DevOps / Infraestrutura"],
-  softSkills: ["curiosidade", "organização", "criatividade", "proatividade", "resolução de problemas", "pensamento analítico", "persistência"],
+  foco: ["Desenvolvimento Full Stack", "Ciência de Dados", "Inteligência Artificial", "Segurança da Informação", "DevOps"],
+  softSkills: ["curiosidade", "organização", "criatividade", "proatividade", "resolução de problemas", "pensamento analítico"],
 };
 
 ```
