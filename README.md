@@ -92,17 +92,18 @@ const raphaela = {
 <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ5cmhpNjB6dzRhZXBqcWRkbWVsbzkzYzN4ZXFva3lvOTFwYmU2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KfBjG41ojhbrSNTElK/giphy.gif"/>
 
 ```diff
-☕ Fun Facts:
-> Always curious, with too many hobbies
-> Is introverted (but loves deep convos)
+☕ Fun Facts
+
+> Always curious, with way too many hobbies
+> Introverted (but loves deep conversations)
 > Talks about tech, art, and philosophy
 > Codes in dark mode with metal and mocha
-> Debugs best when the world is asleep 
+> Debugs best when the world is asleep 🌙
 > Hates unnecessary complexity
 > Loves sketching UIs before bringing them to life
 > Writes tabletop RPG campaigns for fun
 
-! “One more commit” turned into a full-blown all-nighter (again) 😅
+!“One more commit” turning into a full-blown all-nighter (again). 😅
 ```
 
 <div align="center"> 
