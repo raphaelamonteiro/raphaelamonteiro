@@ -21,10 +21,10 @@ const raphaela = {
 ```
 <div align="center">
   
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelamonteiro&theme=aura&locale=pt-BR)](https://github.com/raphaelamonteiro)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelamonteiro&theme=dracula&locale=pt-BR)](https://github.com/raphaelamonteiro)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelamonteiro&theme=aura&locale=pt-BR)](https://github.com/raphaelamonteiro)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelamonteiro&theme=aura&locale=pt-BR)](https://github.com/raphaelamonteiro)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelamonteiro&theme=dracula&locale=pt-BR)](https://github.com/raphaelamonteiro)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelamonteiro&theme=dracula&locale=pt-BR)](https://github.com/raphaelamonteiro)
 
 
 </div>
