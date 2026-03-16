@@ -8,23 +8,21 @@
 <h2 align="center"> About Me </h2>
 
 ```javascript
-// 💻 Developer mode: always on
-// ☕ Constantly learning, creating, and caffeinating
 
 const raphaela = {
-  graduating: "Systems Analysis and Development at FATEC Prof. Jessen Vidal",
+  status: "☕ Caffeinating and modeling complex systems.",
+  learning: [ "Advanced Mathematics", "Signal Processing", "Distributed Systems", "C Programming" ],
 
-  focus: ["Full Stack Development", "Data Science", "Artificial Intelligence", "Cybersecurity"],
-  softSkills: ["curiosity", "organization", "creativity", "proactivity", "problem-solving", "analytical thinking"],
+  education: "Systems Analysis and Development at FATEC Prof. Jessen Vidal",
+  focus: ["Scientific Computing", "Full Stack Development", "Artificial Intelligence", "Cybersecurity"],
+
+  softSkills: [ "Curiosity", "Analytical Thinking", "Creativity", "Organization", "Proactivity" ]
 };
 ```
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelamonteiro&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelamonteiro&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelamonteiro&theme=dracula)
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=nightowl"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=nightowl"/>
 </div>
 
 ---
@@ -72,7 +70,7 @@ const raphaela = {
 
 ---
 
-<h3 align="center">💌 Let’s Connect!</h3>
+<h3 align="center">💌 Connect & Collaborate!</h3>
 
 <div align="center"> 
   <a href="mailto:raphaelabm.dev@gmail.com">
