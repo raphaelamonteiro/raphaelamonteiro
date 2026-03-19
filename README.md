@@ -21,9 +21,10 @@ const raphaela = {
 ```
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=nightowl"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=nightowl"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=transparent"/>
 </div>
+
 
 ---
 
