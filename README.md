@@ -1,112 +1,80 @@
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1050&color=AE75DA&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Raphaela!%22)" />
-  </a>
-</div>
-
-<h2 align="center"> About Me </h2>
-
-```javascript
-
-const raphaela = {
-  status: "☕ Caffeinating and modeling complex systems.",
-  learning: [ "Advanced Mathematics", "Signal Processing", "Distributed Systems", "C Programming" ],
-
-  education: "Systems Analysis and Development at FATEC Prof. Jessen Vidal",
-  focus: ["Scientific Computing", "Full Stack Development", "Artificial Intelligence", "Cybersecurity"],
-
-  softSkills: [ "Curiosity", "Analytical Thinking", "Creativity", "Organization", "Proactivity" ]
-};
-```
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=transparent"/>
-</div>
-
-
----
-
-
-<div align="center">
-<h3 align="center">Tech Stack</h3>
-<!-- Languages -->
-<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-
-<!-- Front-end -->
-<img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-<img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-
-<!-- Back-end -->
-<img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-<img alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
-
-<!-- Databases -->
-<img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
-<img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-
-<!-- Cloud & OS -->
-<img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-<img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<!-- Tools -->
-<img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img alt="BitBucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg">        
-<img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
-<img alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-<img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <!-- Name & Bio -->
+  <h1>Raphaela Monteiro</h1>
+  <h3>Full Stack Developer | Data Scientist | Research Enthusiast</h3>
+  <p>Exploring the frontier of technology and aerospace research</p>
+  <p><b>Passionate about contributing to cutting-edge research and innovative tech solutions</b></p>
 </div>
 
 ---
 
-<h3 align="center">💌 Connect & Collaborate!</h3>
-
-<div align="center"> 
-  <a href="mailto:raphaelabm.dev@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<div align="center">
+  <!-- Stats -->
+  <h2>📊 Stats</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=midnight-purple"/>
 </div>
 
 ---
 
-<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ5cmhpNjB6dzRhZXBqcWRkbWVsbzkzYzN4ZXFva3lvOTFwYmU2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KfBjG41ojhbrSNTElK/giphy.gif"/>
+<div align="center">
+  <!-- Tech Stack -->
+  <h2>💻 Main Tech Stack</h2>
+  <p>
+    
+  ![C#](https://img.shields.io/badge/C%23-6A42C2?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-6A42C2.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-6A42C2?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-6A42C2?style=for-the-badge&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-6A42C2?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-6A42C2?style=for-the-badge&logo=React&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-6A42C2?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-6A42C2.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-6A42C2.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-6A42C2.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-6A42C2?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-6A42C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-6A42C2.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-6A42C2?style=for-the-badge&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-6A42C2.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-6A42C2.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-6A42C2?style=for-the-badge&logo=Linux&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-6A42C2.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  </p>
+</div>
 
-```diff
-☕ Fun Facts
+---
 
-> Always curious, with way too many hobbies
-> Introverted (but loves deep conversations)
-> Talks about tech, art, and philosophy
-> Codes in dark mode with metal and mocha
-> Debugs best when the world is asleep 🌙
-> Hates unnecessary complexity
-> Loves sketching UIs before bringing them to life
-> Writes tabletop RPG campaigns for fun
+<div align="center">
+  <!-- Connect & Collaborate -->
+  <h3>🚀 Connect & Collaborate!</h3>
+  <p>
+    <a href="mailto:raphaelabm.dev@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-52057B?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-52057B?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-52057B?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </p>
+</div>
 
-!“One more commit” turning into a full-blown all-nighter (again). 😅
-```
+---
 
-<div align="center"> 
-  <a href="languages/pt.md">🇧🇷 Leia em Português</a>
+<div align="center">
 
-<p align="center"><sub>console.log("Thanks for visiting!") 💜</sub></p>
+  <!-- Motto / Greeting -->
+  <h4>Always learning. Always building.</h4>
+  <i>console.log("Thanks for visiting!")</i> 💜
+  <br>
+  <!-- GIF -->
+  <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Stars & Purple Aesthetic"/>
 
+<br>
+<br>
+    <!-- Language Switch -->
+  <p><a href="languages/pt.md">🇧🇷 Leia em Português</a></p>
 </div>
