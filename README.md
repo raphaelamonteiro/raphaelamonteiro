@@ -11,8 +11,8 @@
 <div align="center">
   <!-- Stats -->
   <h2>📊 Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=aura"/>
 </div>
 
 ---
