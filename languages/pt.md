@@ -9,9 +9,9 @@
 <div align="center">
   <!-- Estatísticas -->
   <h2>📊 Estatísticas</h2>
-  <img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api?username=raphaelamonteiro&show_icons=true&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api?username=raphaelamonteiro&show_icons=true&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api/top-langs/?username=raphaelamonteiro&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api/top-langs/?username=raphaelamonteiro&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br&langs_count=8" />
 
 </div>
 
