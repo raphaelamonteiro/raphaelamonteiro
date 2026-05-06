@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Name & Bio -->
   <h1>Raphaela Monteiro</h1>
-  <h3>Full Stack Developer | Software Engineer Researcher | Data Scientist </h3>
+  <h3>Full Stack Developer | Software Engineer Researcher </h3>
   <p>Exploring the frontier of technology and aerospace research</p>
   <p><b>Passionate about contributing to cutting-edge research and innovative tech solutions</b></p>
 </div>
