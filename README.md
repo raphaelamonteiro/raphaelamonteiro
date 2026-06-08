@@ -9,38 +9,40 @@
 <div align="center">
   <!-- Stats -->
   <h2>📊 Stats</h2>
+  <a href="https://github.com/raphaelamonteiro">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&locale=en"/>
 
-<img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api?username=raphaelamonteiro&show_icons=true&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&locale=en"/>
-
-<img height="180em" src="https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app//api/top-langs/?username=raphaelamonteiro&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+</a>
 </div>
+
 
 <div align="center">
   <!-- Tech Stack -->
   <h2>💻 Main Tech Stack</h2>
   <p>
     
-![C#](https://img.shields.io/badge/C%23-6A42C2?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-6A42C2?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-6A42C2.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6A42C2?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6A42C2?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6A42C2?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-6A42C2?style=for-the-badge&logo=React&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-6A42C2?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-6A42C2.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-6A42C2.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-6A42C2.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6A42C2?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-6A42C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-6A42C2.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6A42C2?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6A42C2.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-6A42C2.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-6A42C2.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6A42C2?style=for-the-badge&logo=Linux&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-6A42C2.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
 
   </p>
 </div>
