@@ -1,81 +1,86 @@
 <div align="center">
   <!-- Nome & Bio -->
   <h1>Raphaela Monteiro</h1>
-  <h3>Desenvolvedora Full Stack | Pesquisadora em Engenharia de Software</h3>
-  <p>Explorando as fronteiras da tecnologia, inteligência artificial e pesquisa aeroespacial.</p>
-  <p><b>Apaixonada por contribuir para pesquisas de ponta e soluções tecnológicas inovadoras</b></p>
+
+  <h3>Desenvolvedora de Software | Engenharia de Software e Tecnologia Aeroespacial</h3>
+  <p>Explorando as fronteiras da tecnologia, engenharia de software e pesquisa aeroespacial.</p>
 </div>
 
 <div align="center">
+  <!-- Aprendizado -->
+  <h2>🌱 Aprendendo</h2>
+
+  <p>C • C++ moderno • Algoritmos e Estruturas de Dados • Linux • Sistemas Embarcados</p>
+
   <!-- Estatísticas -->
-  <h2>📊 Estatísticas</h2>
-  <a href="https://github.com/raphaelamonteiro">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br&cache_seconds=1800" />
+  <h2>🔎 Estatísticas</h2>
+
+<a href="https://github.com/raphaelamonteiro">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br&cache_seconds=1800"/>
 </a>
-</div>
 
-<div align="center">
-  <!-- Tecnologias -->
-  <h2>💻 Principais Tecnologias</h2>
-   <p>
-    
+<!-- Tecnologias -->
+<h2>💻 Tecnologias</h2>
+<p>
 
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge\&logo=.net\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=TypeScript\&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=React\&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=Linux\&logoColor=white)
 
-  </p>
+</p>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Contato & Colaboração -->
-  <h3>🚀 Vamos nos conectar!</h3>
+<h3>🚀 Vamos nos conectar!</h3>
   <p>
     <a href="mailto:raphaelabm.dev@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-52057B?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-471396?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-52057B?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-471396?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-52057B?style=for-the-badge&logo=instagram&logoColor=white">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-471396?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
-</div>
+  </div>
 
 ---
 
 <div align="center">
 
-  <h4>Construindo, aprendendo e explorando o impossível.</h4>
-  <i>console.log("Obrigada pela visita!")</i> 💜
-  <br>
-  <!-- GIF -->
-  <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Estrelas & Estética Roxa"/>
+<h4>Construindo, aprendendo e explorando o impossível.</h4>
+<i>console.log("Obrigada pela visita!")</i> 💜
+<br>
+<!-- GIF -->
+<img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Stars & Purple Aesthetic"/>
 
 <br>
-<br>
-    <!-- Troca de idioma -->
-  <p><a href="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/README.md">🇺🇸 Read in English</a></p>
+
+<!-- Troca de idioma -->
+<p><a href="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/README.md">🇺🇸 Read in English</a></p>
 </div>
