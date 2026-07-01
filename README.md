@@ -37,7 +37,7 @@
 ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -69,8 +69,8 @@
 ---
 
 <div align="center">
-  <h4>Always learning. Always building.</h4>
-  <i>console.log("Thanks for visiting!")</i> 💜
+<h4>Always learning. Always building.</h4>
+<i>console.log("Thank you for stopping by!");</i> 💜
   <br>
   <!-- GIF -->
   <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Stars & Purple Aesthetic"/>
