@@ -1,32 +1,34 @@
 <div align="center">
   <!-- Name & Bio -->
   <h1>Raphaela Monteiro</h1>
-  <h3>Full Stack Developer | Software Engineer Researcher </h3>
-  <p>Exploring the frontier of technology and aerospace research</p>
-  <p><b>Passionate about contributing to cutting-edge research and innovative tech solutions</b></p>
-</div>
+<h3>Software Developer | Exploring Embedded Systems & Aerospace</h3>
+<p>Passionate about software engineering, embedded systems, and aerospace technologies.</p>
 
+</div>
+ 
 <div align="center">
+  <!-- Learning -->
+  <h2>🌱 Currently Learning</h2>
+  <p>C • Modern C++ • Data Structures & Algorithms • Linux • Embedded Systems </p>
+    
   <!-- Stats -->
-  <h2>📊 Stats</h2>
+  <h2>🔎 Stats</h2>
   <a href="https://github.com/raphaelamonteiro">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&locale=en"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
 </a>
-</div>
 
-
-<div align="center">
-  <!-- Tech Stack -->
-  <h2>💻 Main Tech Stack</h2>
-  <p>
+<!-- Tech Stack -->
+<h2>💻 Tech Stack</h2>
+<p>
     
-
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
@@ -54,13 +56,13 @@
   <h3>🚀 Connect & Collaborate!</h3>
   <p>
     <a href="mailto:raphaelabm.dev@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-52057B?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-112E81?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-52057B?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-112E81?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-52057B?style=for-the-badge&logo=instagram&logoColor=white">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-112E81?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
 </div>
