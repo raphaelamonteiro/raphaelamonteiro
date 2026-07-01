@@ -1,18 +1,17 @@
 <div align="center">
   <!-- Name & Bio -->
   <h1>Raphaela Monteiro</h1>
-<h3>Software Developer | Exploring Embedded Systems & Aerospace</h3>
-<p>Passionate about software engineering, embedded systems, and aerospace technologies.</p>
-
+  <h3>Software Developer | Software Engineering & Aerospace Technology</h3>
+  <p>Exploring the frontiers of technology, software engineering, and aerospace research.</p>
 </div>
  
 <div align="center">
-  <!-- Learning -->
+  <!-- Currently Learning -->
   <h2>🌱 Currently Learning</h2>
-  <p>C • Modern C++ • Data Structures & Algorithms • Linux • Embedded Systems </p>
+  <p>C • Modern C++ • Algorithms & Data Structures • Linux • Embedded Systems</p>
     
   <!-- Stats -->
-  <h2>🔎 Stats</h2>
+  <h2>🔎 GitHub Stats</h2>
   <a href="https://github.com/raphaelamonteiro">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&locale=en"/>
 
@@ -56,22 +55,20 @@
   <h3>🚀 Connect & Collaborate!</h3>
   <p>
     <a href="mailto:raphaelabm.dev@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-112E81?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-471396?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-112E81?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-471396?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-112E81?style=for-the-badge&logo=instagram&logoColor=white">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-471396?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
-</div>
+  </div>
 
 ---
 
 <div align="center">
-
-  <!-- Motto / Greeting -->
   <h4>Always learning. Always building.</h4>
   <i>console.log("Thanks for visiting!")</i> 💜
   <br>
