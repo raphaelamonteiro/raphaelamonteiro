@@ -11,17 +11,21 @@ Developing real-time systems in C/C++ | Exploring flight software architectures 
 
 <!-- Stats -->
 <div align="center">
-<h2>🔎 GitHub Stats</h2>
+  
+## 🔎 GitHub Stats
+
 <a href="https://github.com/raphaelamonteiro">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&locale=en"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
 </a>
 
-<!-- Tech Stack -->
-<h2>💻 Tech Stack</h2>
-<p>
 
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+<p>
+  
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -45,13 +49,12 @@ Developing real-time systems in C/C++ | Exploring flight software architectures 
 </p>
 </div>
 
-<h2><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Research Interests</h2>
+## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Research Interests
 
 Space Systems • Aerospace Computing • Flight Software • Embedded Systems • Real-Time Systems • Computer Architecture • Autonomous Systems • Safety-Critical Software
 
 
-## ☕ Professional Experience:
+## ☕ Professional Experience
 **Software Development Intern - Wave Concept Software**
 
 Working on the <b>development of enterprise software solutions</b>, contributing across the full application lifecycle, from design to deployment.
@@ -59,10 +62,11 @@ Working on the <b>development of enterprise software solutions</b>, contributing
 This experience has strengthened my understanding of software architecture, distributed systems, AI-powered applications and engineering practices in agile environments.
 
 ---
-<!-- Connect & Collaborate -->
-<h3>🚀 Connect & Collaborate!</h3>
-<p>
+<div align="center">
+  
+## 🚀 Connect & Collaborate!
 
+<p>
 <a href="mailto:raphaelabm.dev@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-471396?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -72,13 +76,19 @@ This experience has strengthened my understanding of software architecture, dist
 <a href="https://www.instagram.com/ilyraphaela/" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-471396?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
+<a href="https://medium.com/@raphaelamonteiro" target="_blank">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-471396?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/raphaelamonteiro/" target="_blank">
+<img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-471396?style=for-the-badge&logo=LeetCode&logoColor=white">
+</a>
 <a href="https://raphaelamonteiro.vercel.app/" target="_blank">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-471396?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
+</div>
 
----
+
 
 <div align="center">
 
@@ -93,6 +103,7 @@ printf("Building software for systems beyond Earth.\n");
 ```
 
 <br>
+
 <!-- GIF -->
 <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Stars & Purple Aesthetic"/>
 <br>
