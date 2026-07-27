@@ -34,7 +34,7 @@ I aim to contribute to projects involving innovation, technical challenges, and 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
 
-### Core
+### Core:
 ![.NET](https://img.shields.io/badge/.NET-450693?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-450693?style=for-the-badge&logo=csharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-450693?style=for-the-badge&logo=angular&logoColor=white)
