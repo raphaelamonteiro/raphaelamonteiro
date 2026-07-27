@@ -68,7 +68,7 @@ Computação Aeroespacial • Software de Voo • Sistemas Embarcados • Sistem
 
 ## ☕ Experiência Profissional
 
-### Estagiária em Desenvolvimento de Software — Wave Concept Software
+### Estagiária em Desenvolvimento de Software - Wave Concept Software
 
 Atuo no desenvolvimento de aplicações corporativas utilizando .NET, Angular e tecnologias de Inteligência Artificial, contribuindo em todas as etapas do ciclo de desenvolvimento de software.
 
