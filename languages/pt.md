@@ -27,9 +27,8 @@ Meu objetivo é contribuir para projetos que envolvam inovação, desafios técn
 ## 🔎 Estatísticas do GitHub
 
 <a href="https://github.com/raphaelamonteiro">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelamonteiro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=raphaelamonteiro&show_icons=true&theme=midnight-purple&border_color=8C00FF&count_private=true&cache_seconds=1800&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=raphaelamonteiro&layout=compact&theme=midnight-purple&border_color=8C00FF&langs_count=8&cache_seconds=1800&locale=pt-br" />
 </a>
 </div>
 
