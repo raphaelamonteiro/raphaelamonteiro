@@ -15,7 +15,10 @@ Sou Desenvolvedora de Software e graduanda em Análise e Desenvolvimento de Sist
 Tenho especial interesse em **pesquisa e desenvolvimento tecnológico**, especialmente no **setor espacial**, com foco em engenharia de software. <br>
 Meu objetivo é contribuir para projetos que envolvam inovação, desafios técnicos e o desenvolvimento de soluções para problemas complexos.
 
-<br>
+### ☕ Aprendendo:
+![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.Js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
+
 <br>
 
 <!-- Estatísticas -->
