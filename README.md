@@ -16,7 +16,10 @@ I'm a Software Developer pursuing a degree in Systems Analysis and Development a
 I'm particularly interested in **research and technological development**, especially in the **space sector**, with a focus on software engineering. <br>
 I aim to contribute to projects involving innovation, technical challenges, and the development of solutions for complex problems.
 
-<br>
+### ☕ Currently learning:
+![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.Js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
+
 <br>
 
 <!-- Stats -->
@@ -67,7 +70,7 @@ I aim to contribute to projects involving innovation, technical challenges, and 
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Research Interests
 
-Aerospace Computing • Flight Software • Embedded Systems • Real-Time Systems • Distributed Systems • Artificial Intelligence • Computer Architecture • Autonomous Systems • Safety-Critical Software
+Aerospace Computing • Flight Software • Embedded Systems • Real-Time Systems • Artificial Intelligence • Computer Architecture • Autonomous Systems • Safety-Critical Software
 
 ## ☕ Professional Experience
 
