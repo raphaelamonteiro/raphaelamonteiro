@@ -86,7 +86,7 @@ Building enterprise applications with .NET, Angular, and AI technologies while c
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**Kitsune**](https://github.com/raphaelamonteiro/kitsune-network-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
+| [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
 | [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Support platform with structured chat, AI-powered triage, and an admin dashboard for queue management and performance metrics. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` |
 | [**Adatech**](https://github.com/raphaelamonteiro/adatech) | AI agent that automates customs registration by generating product descriptions compliant with Brazilian Federal Revenue Service (RFB) standards, reducing manual entry errors. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` |
 
