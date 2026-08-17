@@ -7,7 +7,7 @@
 </div>
 
 
-## 🐈‍⬛ Who am I?
+## $ whoami   
 
 <img align="right" width="150" src="assets/rocket.gif"/>
 
@@ -16,7 +16,7 @@ I'm a Software Developer pursuing a degree in Systems Analysis and Development a
 I'm particularly interested in **research and technological development**, especially in the **space sector**, with a focus on software engineering. <br>
 I aim to contribute to projects involving innovation, technical challenges, and the development of solutions for complex problems.
 
-### ☕ Currently learning:
+### 🐈‍⬛ Currently learning:
 ![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.Js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
 
