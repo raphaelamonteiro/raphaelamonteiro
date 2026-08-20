@@ -18,7 +18,10 @@ I aim to contribute to projects involving innovation, technical challenges, and 
 
 ### 🐈‍⬛ Currently learning:
 ![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.Js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ansys SCADE](https://img.shields.io/badge/Ansys%20SCADE-433878?style=for-the-badge&logoColor=white)
+
+<br>
 
 <br>
 
