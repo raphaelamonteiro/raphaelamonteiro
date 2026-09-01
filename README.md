@@ -27,14 +27,6 @@ I'm particularly interested in engineering problems where software
 meets constraints: performance, reliability, timing, hardware and
 autonomy.
 
-### 🧠 Engineering Notes
-
-Things I'm currently trying to understand:
-
-- How do real-time systems reason about timing?
-- What makes software reliable when failure is not an option?
-- How much abstraction is useful before I need to understand what is underneath?
-
 <br>
 
 ---
