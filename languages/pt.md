@@ -6,18 +6,25 @@
 
 </div>
 
-## 🐈‍⬛ Quem sou eu?
+## $ whoami
 
 <img align="right" width="150" src="/assets/rocket.gif"/>
 
-Sou Desenvolvedora de Software e graduanda em Análise e Desenvolvimento de Sistemas pela FATEC Prof. Jessen Vidal. Gosto de desenvolver software que combina sistemas distribuídos, inteligência artificial e programação de baixo nível, além de ter um interesse crescente em software embarcado para aplicações aeroespaciais e sistemas críticos de segurança.
+Sou Desenvolvedora de Software e estudante de Análise e Desenvolvimento de Sistemas
+na FATEC Prof. Jessen Vidal.
 
-Tenho especial interesse em **pesquisa e desenvolvimento tecnológico**, especialmente no **setor espacial**, com foco em engenharia de software. <br>
-Meu objetivo é contribuir para projetos que envolvam inovação, desafios técnicos e o desenvolvimento de soluções para problemas complexos.
+Gosto de entender o que acontece por baixo das abstrações.
 
-### ☕ Aprendendo:
-![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.Js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
+Desenvolvo software em diferentes camadas, desde APIs e sistemas distribuídos
+até aplicações de IA e infraestrutura, enquanto gradualmente me aproximo
+de programação de sistemas, computação embarcada e software de voo.
+
+Atualmente, você provavelmente vai me encontrar em algum lugar entre
+um terminal Linux, uma base de código e alguma coisa relacionada ao espaço.
+
+Tenho especial interesse em problemas de engenharia onde software
+encontra restrições: desempenho, confiabilidade, tempo de execução,
+hardware e autonomia.
 
 <br>
 
@@ -63,35 +70,36 @@ Meu objetivo é contribuir para projetos que envolvam inovação, desafios técn
 ![C](https://img.shields.io/badge/C-450693?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-450693?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-450693?style=for-the-badge&logo=rust&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-450693?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-450693?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ansys SCADE](https://img.shields.io/badge/Ansys%20SCADE-450693?style=for-the-badge&logoColor=white)
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Interesses de Pesquisa
 
-Computação Aeroespacial • Software de Voo • Sistemas Embarcados • Sistemas de Tempo Real • Sistemas Distribuídos • Inteligência Artificial • Arquitetura de Computadores • Sistemas Autônomos • Software Crítico para Segurança
+Arquitetura de Computadores • Sistemas Autônomos • Sistemas de Tempo Real • Computação Aeroespacial • Software de Voo • Sistemas Embarcados • Sistemas Distribuídos • Inteligência Artificial
 
-## ☕ Experiência Profissional
-
-### Estagiária em Desenvolvimento de Software - Wave Concept Software
-
-Atuo no desenvolvimento de aplicações corporativas utilizando .NET, Angular e tecnologias de Inteligência Artificial, contribuindo em todas as etapas do ciclo de desenvolvimento de software.
-
-**Destaques**
-- Desenvolvi um agente conversacional baseado em IA utilizando .NET, Ollama e Semantic Kernel para automatizar o atendimento ao cliente em uma plataforma de delivery.
-- Integrei a solução de IA com APIs de pedidos e clientes, aumentando a eficiência operacional.
-- Colaborei com boas práticas de engenharia de software em diversos projetos.
-
----
 
 ## 🌟 Principais Projetos
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**Kitsune**](https://github.com/raphaelamonteiro/kitsune-network-infrastructure) | Laboratório de infraestrutura AWS que reproduz um ambiente de produção seguro e escalável, utilizando balanceamento de carga com HAProxy, proxy reverso Nginx, containers Docker e acesso restrito via VPN/SSH. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
-| [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Plataforma de atendimento com chat estruturado, triagem baseada em IA e painel administrativo para gerenciamento de filas e métricas de desempenho. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` |
-| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | Agente de IA que automatiza o cadastro aduaneiro ao gerar descrições de produtos em conformidade com os padrões da Receita Federal, reduzindo erros de preenchimento manual. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` |
+| Projeto | Descrição | Stack | Research Notes |
+| :--- | :--- | :--- |:--- |
+| [**Kitsune**](https://github.com/raphaelamonteiro/kitsune-network-infrastructure) | Laboratório de infraestrutura AWS que reproduz um ambiente de produção seguro e escalável, utilizando balanceamento de carga com HAProxy, proxy reverso Nginx, containers Docker e acesso restrito via VPN/SSH. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` | [Report](...) |
+| [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Plataforma de atendimento com chat estruturado, triagem baseada em IA e painel administrativo para gerenciamento de filas e métricas de desempenho. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` | [Report](...) |
+| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | Agente de IA que automatiza o cadastro aduaneiro ao gerar descrições de produtos em conformidade com os padrões da Receita Federal, reduzindo erros de preenchimento manual. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` | [Report](...) |
 
 Explore mais projetos no meu **[portfólio](https://raphaelamonteiro.vercel.app)**.
 
 > 🚧 Mais projetos em desenvolvimento.
+
+## ☕ Experiência Profissional
+
+### Estagiária em Desenvolvimento de Software - Wave Concept Software
+Atuo no desenvolvimento de aplicações corporativas utilizando .NET, Angular e tecnologias de Inteligência Artificial, contribuindo em todas as etapas do ciclo de desenvolvimento de software.
+
+**Destaques**
+- Desenvolvi um agente conversacional baseado em IA utilizando .NET, Ollama e Semantic Kernel para automatizar o atendimento ao cliente.
+- Integrei a solução de IA com APIs de pedidos e clientes, aumentando a eficiência operacional.
+- Colaborei com boas práticas de engenharia de software em diversos projetos.
 
 ---
 
@@ -102,12 +110,16 @@ while (missao_ativa) {
     evoluir();
 }
 ````
-
 ---
 
 <div align="center">
 
-## 🚀 Vamos nos conectar!
+## 🌎 Me encontre pela internet
+
+Construindo alguma coisa? Pesquisando algo? Quer apenas conversar
+sobre software, sistemas ou espaço?
+
+Eu adoraria conversar com você.
 
 <a href="mailto:raphaelabm.dev@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-493D9E?style=for-the-badge&logo=gmail&logoColor=white">
@@ -127,16 +139,16 @@ while (missao_ativa) {
 
 ---
 
-```
-"Não havia outra escolha senão sermos pioneiros."
-— Margaret Hamilton
-```
-
 </div>
 
 <br>
 
 <div align="center">
+
+```
+"Não havia escolha a não ser sermos pioneiros."
+— Margaret Hamilton
+```
 
 <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Estrelas & Estética Roxa"/>
 <br>
