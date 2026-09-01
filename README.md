@@ -141,19 +141,18 @@ about software, systems or space?
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-493D9E?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
+</div>
+
 ---
 
+<div align="center">
+    
 ```
 "There was no choice but to be pioneers."
 — Margaret Hamilton
 ```
 
-
-</div>
-
-<br>
-
-<div align="center">
+    
 <!-- GIF -->
 <img src="https://github.com/raphaelamonteiro/raphaelamonteiro/blob/main/assets/stardew-purple.gif" width="120" alt="Stars & Purple Aesthetic"/>
 <br>
