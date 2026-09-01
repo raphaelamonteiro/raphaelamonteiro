@@ -11,19 +11,33 @@
 
 <img align="right" width="150" src="assets/rocket.gif"/>
 
-I'm a Software Developer pursuing a degree in Systems Analysis and Development at FATEC Prof. Jessen Vidal. I enjoy building software that combines distributed systems, AI, and low-level programming, with a growing interest in flight software and safety-critical systems.
+I'm a Software Developer and Systems Analysis and Development student
+at FATEC Prof. Jessen Vidal.
 
-I'm particularly interested in **research and technological development**, especially in the **space sector**, with a focus on software engineering. <br>
-I aim to contribute to projects involving innovation, technical challenges, and the development of solutions for complex problems.
+**I like understanding what happens underneath the abstraction.**
 
-### 🐈‍⬛ Currently learning:
-![Spring](https://img.shields.io/badge/Spring-433878?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-433878?style=for-the-badge&logo=vue.js&logoColor=white)
-![Ansys SCADE](https://img.shields.io/badge/Ansys%20SCADE-433878?style=for-the-badge&logoColor=white)
+I build software across the stack, from APIs and distributed systems
+to AI applications and infrastructure, while gradually moving closer
+to systems programming, embedded computing and flight software.
+
+These days, you'll probably find me somewhere between a Linux terminal,
+a codebase, and something related to space.
+
+I'm particularly interested in engineering problems where software
+meets constraints: performance, reliability, timing, hardware and
+autonomy.
+
+### 🧠 Engineering Notes
+
+Things I'm currently trying to understand:
+
+- How do real-time systems reason about timing?
+- What makes software reliable when failure is not an option?
+- How much abstraction is useful before I need to understand what is underneath?
 
 <br>
 
-<br>
+---
 
 <!-- Stats -->
 <div align="center">
@@ -52,7 +66,6 @@ I aim to contribute to projects involving innovation, technical challenges, and 
 ![React](https://img.shields.io/badge/React-450693?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-450693?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nestjs-450693?style=for-the-badge&logo=nestjs&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-450693?&style=for-the-badge&logo=axios&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-450693?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-450693?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-450693?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -67,35 +80,37 @@ I aim to contribute to projects involving innovation, technical challenges, and 
 ![C](https://img.shields.io/badge/C-450693?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-450693?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-450693?style=for-the-badge&logo=rust&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-450693?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-450693?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ansys SCADE](https://img.shields.io/badge/Ansys%20SCADE-450693?style=for-the-badge&logoColor=white)
 
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Research Interests
 
-Aerospace Computing • Flight Software • Embedded Systems • Real-Time Systems • Artificial Intelligence • Computer Architecture • Autonomous Systems • Safety-Critical Software
+Computer Architecture • Autonomous Systems • Real-Time Systems • Safety-Critical Software • Aerospace Computing • Flight Software • Embedded Systems • Artificial Intelligence
+
+## 🌟 Selected Projects
+
+| Project | Description | Stack | Research Notes |
+| :--- | :--- | :--- |:--- |
+| [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` | [Report](...) |
+| [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Support platform with structured chat, AI-powered triage, and an admin dashboard for queue management and performance metrics. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` | [Report](...) |
+| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | AI agent that automates customs registration by generating product descriptions compliant with Brazilian Federal Revenue Service (RFB) standards, designed to reduce manual entry and improve consistency. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` | [Report](...) |
+
+Explore more projects on my **[portfolio](https://raphaelamonteiro.vercel.app)**.
+
+> 🚧 More projects currently in development.
+
 
 ## ☕ Professional Experience
 
 ### Software Development Intern - Wave Concept Software
-Building enterprise applications with .NET, Angular, and AI technologies while contributing throughout the full software development lifecycle.
+Working on enterprise applications across the full stack, primarily with C#, .NET, Angular, TypeScript and PostgreSQL.
 
 **Highlights**
 - Designed a conversational AI agent using .NET, Ollama, and Semantic Kernel to automate food delivery customer support.
 - Integrated the AI solution with order and customer APIs, improving operational efficiency.
 - Contributed to software engineering best practices across multiple projects.
-
----
-
-## 🌟 Main Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
-| [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Support platform with structured chat, AI-powered triage, and an admin dashboard for queue management and performance metrics. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` |
-| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | AI agent that automates customs registration by generating product descriptions compliant with Brazilian Federal Revenue Service (RFB) standards, reducing manual entry errors. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` |
-
-Explore more projects on my **[portfolio](https://raphaelamonteiro.vercel.app)**.
-
-> 🚧 More projects currently in development.
 
 ---
 
@@ -111,7 +126,12 @@ while (mission_active) {
 
 <div align="center">
   
-## 🚀 Connect & Collaborate!
+## 🌎 Find me around the internet
+
+Building something? Researching something? Just want to talk
+about software, systems or space?
+
+**I'd love to hear from you.**
 
 <a href="mailto:raphaelabm.dev@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-493D9E?style=for-the-badge&logo=gmail&logoColor=white">
