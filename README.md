@@ -79,7 +79,7 @@ autonomy.
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" width="32" height="32"> </picture> Research Interests
 
-Computer Architecture • Autonomous Systems • Real-Time Systems • Safety-Critical Software • Aerospace Computing • Flight Software • Embedded Systems • Artificial Intelligence
+Computer Architecture • Autonomous Systems • Real-Time Systems • Aerospace Computing • Flight Software • Embedded Systems • Artificial Intelligence
 
 ## 🌟 Selected Projects
 
