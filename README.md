@@ -131,7 +131,7 @@ about software, systems or space?
 <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-493D9E?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://medium.com/@raphaelamonteiro" target="_blank">
+<a href="https://ilyraphaela.medium.com/" target="_blank">
 <img alt="Medium" src="https://img.shields.io/badge/Medium-493D9E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://leetcode.com/u/raphaelamonteiro/" target="_blank">
