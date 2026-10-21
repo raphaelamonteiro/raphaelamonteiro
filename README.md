@@ -85,14 +85,15 @@ Computer Architecture • Autonomous Systems • Real-Time Systems • Aerospace
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` | 
+| [**SPRB-BD**](https://raphaelamonteiro.vercel.app/projects/sprb-bd) | Brazilian Regional PNT system prototype — a 4-layer reference architecture for sovereign navigation infrastructure, validated through 137 integration tests. Undergraduate thesis developed within a research team at ITA. | `Python`, `FastAPI`, `Apache Spark`, `PostgreSQL`, `React` |
+| [**Camplana**](https://raphaelamonteiro.vercel.app/projects/camplana) | Explainable AI platform for commission campaign planning. LLMs generate Python code that runs isolated against real data — never numbers directly — with gRPC integration between Java and Python backends. | `Java`, `Spring`, `Python`, `gRPC`, `Vue`, `LangGraph`, `Docker` |
+| [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | AWS infrastructure lab replicating a secure, scalable production environment with HAProxy load balancing, Nginx reverse proxy, Docker containers, and VPN/SSH-restricted access. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
 | [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Support platform with structured chat, AI-powered triage, and an admin dashboard for queue management and performance metrics. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` |
-| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | AI agent that automates customs registration by generating product descriptions compliant with Brazilian Federal Revenue Service (RFB) standards, designed to reduce manual entry and improve consistency. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` | 
+| [**Adatech**](https://github.com/raphaelamonteiro/adatech) | AI agent that automates customs registration by generating product descriptions compliant with Brazilian Federal Revenue Service (RFB) standards, designed to reduce manual entry and improve consistency. | `Python`, `PostgreSQL`, `React`, `TypeScript`, `Ollama` |
 
-Explore more projects on my **[portfolio](https://raphaelamonteiro.vercel.app)**.
+Read full case studies on my **[portfolio](https://raphaelamonteiro.vercel.app/projects)**.
 
-> 🚧 More projects currently in development.
-
+> 🚧 More projects on the way.
 
 ## ☕ Professional Experience
 
