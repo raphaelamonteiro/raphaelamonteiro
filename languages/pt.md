@@ -30,7 +30,7 @@ Arquitetura de Computadores • Sistemas Autônomos • Sistemas de Tempo Real �
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**SPRB-BD**](https://raphaelamonteiro.vercel.app/projects/sprb-bd) | Protótipo de sistema regional brasileiro de PNT — arquitetura de referência em 4 camadas para infraestrutura soberana de navegação, validada por 137 testes de integração. TCC desenvolvido em time de pesquisa no ITA. | `Python`, `FastAPI`, `Apache Spark`, `PostgreSQL`, `React` |
+| [**SPRB-BD**](https://raphaelamonteiro.vercel.app/projects/sprb-bd) | Protótipo de sistema regional brasileiro de PNT — arquitetura de referência em 4 camadas para infraestrutura soberana de navegação, validada por 137 testes de integração. TG desenvolvido em time de pesquisa no ITA. | `Python`, `FastAPI`, `Apache Spark`, `PostgreSQL`, `React` |
 | [**Camplana**](https://raphaelamonteiro.vercel.app/projects/camplana) | Plataforma de IA explicável para planejamento de campanhas de comissão. LLMs geram código Python que roda isolado sobre dados reais — nunca números diretamente — com integração gRPC entre backends Java e Python. | `Java`, `Spring`, `Python`, `gRPC`, `Vue`, `LangGraph`, `Docker` |
 | [**Kitsune Infrastructure**](https://github.com/raphaelamonteiro/kitsune-infrastructure) | Laboratório de infraestrutura AWS replicando ambiente de produção seguro e escalável com HAProxy, proxy reverso Nginx, containers Docker e acesso restrito via VPN/SSH. | `AWS`, `Nginx`, `Docker`, `WireGuard`, `HAProxy`, `Linux` |
 | [**Orbita**](https://github.com/raphaelamonteiro/orbita) | Plataforma de atendimento com chat estruturado, triagem com IA e painel administrativo para gestão de filas e métricas de performance. | `React Native`, `NestJS`, `Next.js`, `MongoDB`, `WebSockets` |
